@@ -1,4 +1,8 @@
-## Hi there 👋
+## About Me
+Hello, my name is Victor Greek and I am 19 years old. I am interested in Computer Science, Graphic Design, Game Design, and Accounting.
+
+## Contact
+my email: okvictorgreek@gmail.com
 
 <!--
 **Victor-Greek/Victor-Greek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
